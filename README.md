@@ -4,10 +4,6 @@
 
 This is a library, which wraps the cardano-cli with JavaScript and makes it possible to interact with the cli-commands much faster and more efficient.
 
-###### This library is brought to you by <b><a href="http://pipool.online/">Berry Pool</a></b>. You can support our work by delegating to our pool.
-
-###### Donations (ADA): addr1q97x8rfnkw4pmdgnwjzavl8jvg77tuy6wn3wm90x9emwgj8nhh356yzp7k3qwmhe4fk0g5u6kx5ka4rz5qcq4j7mvh2sg67tj5
-
 ## Prerequisites
 
 - `cardano-node >= 1.27.0`
